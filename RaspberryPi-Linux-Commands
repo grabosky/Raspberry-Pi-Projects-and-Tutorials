@@ -1,0 +1,11 @@
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[ RaspberryPi-Linux-Commands ]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]
+
+Turn off screen
+vcgencmd display_power 0
+
+Turn on screen
+vcgencmd display_power 1
+
+[Disable/Enable screen (HDMI)]
+
+------
